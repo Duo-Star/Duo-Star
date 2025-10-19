@@ -48,7 +48,7 @@
 ---
 
 ### 📫 Contact
-[![Telegram](https://img.shields.io/badge/-Telegram-192133?&logo=Telegram&logoColor=white)](https://t.me/KuLiPai)
+[![Telegram](https://img.shields.io/badge/-Telegram-192133?&logo=Telegram&logoColor=white)](https://t.me/Grooverockidryoungalaxy)
 
 
 <!--

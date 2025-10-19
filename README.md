@@ -23,14 +23,18 @@
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Duo-Star&show_icons=true&theme=radical" height="160"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duo-Star&theme=radical" height="160"/>
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Duo-Star&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Duo-Star's Top Langs" height="158" />
 </p>
 -->
 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duo-Star&theme=rogue" />
+
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Duo-Star&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Duo-Star's Top Langs" height="158" />
+
 </p>
 
 ---

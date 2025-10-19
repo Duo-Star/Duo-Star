@@ -1,13 +1,14 @@
 <h1 align="center">欢迎，朋友</h1>
-<h3 align="center">🚀 Student | Android Dev | Web3 Learner | Security Enthusiast</h3>
+<h3 align="center">🚀 学生党 | 数学爱好者 | 好奇编码 | 自然管理员 </h3>
 
 ---
 
 ### 🪐 
-- 💻 Passionate about **Android & Open Source**  
-- 🕹 Currently exploring **Web3, Solidity & Smart Contracts**  
-- 🛡️ Learning **Reverse Engineering & Security**  
-- 🎮 Minecraft lover
+- 🌴 主要开发[MathForest](https://github.com/Duo-Star/MathForest-planting)
+- 🐒 神圣几何[GeoMKY](https://github.com/Duo-Star/geomky)
+- 👾 学习嵌入式（[1st.stm32](https://github.com/Duo-Star/myFirstStm32)）
+- 🎮 我的世界服务器腐竹（[DuoplySCQ](https://github.com/Duo-Star/DuoplySCQ)）
+- 🥰 Color打造
 
 ---
 
@@ -35,10 +36,10 @@
 
 ---
 
-### 🌌 Fun Stuff
-- 🎯 Fav Stack: `Android + Kotlin + Compose + Lua`
-- 🌍 Ethereum Address: `0xaa92164582D84879FA0DAa271Ad2433942e45Dc8`
-- 🔥 Motto: *Hack for Freedom, Share for All.*
+### 🌌 我的目标
+- 🎯 
+- 🌍 
+- 🔥 
 
 ---
 

@@ -3,7 +3,7 @@
 
 ---
 
-### 🪐 About Me
+### 🪐 
 - 💻 Passionate about **Android & Open Source**  
 - 🕹 Currently exploring **Web3, Solidity & Smart Contracts**  
 - 🛡️ Learning **Reverse Engineering & Security**  
@@ -11,32 +11,27 @@
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,lua,python,go,neovim,docker,solidity,dart,flutter,figma,linux,windows,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=lua,java,c,cpp,dart,flutter,androidstudio,docker,linux,windows,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 统计
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Duo-Star&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duo-Star&theme=radical" height="160"/>
 </p>
+-->
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duo-Star&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duo-Star&theme=rogue" />
 </p>
 
 ---
-
-### 🏆 Achievements
-<p align="center">
-<img  alt="Pull Shark" width="60" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png" /> 
-<img  alt="yolo" width="60" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png" />
-<img  alt="quickdraw" width="60" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png" /> 
-<img  alt="starstruck" width="60" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/starstruck-default.png" />
-</p>
 
 ---
 
@@ -47,9 +42,19 @@
 
 ---
 
-### 📫 Contact
-[![Telegram](https://img.shields.io/badge/-Telegram-192133?&logo=Telegram&logoColor=white)](https://t.me/Grooverockidryoungalaxy)
+### 📫 我很高兴与你交朋友
 
+探索神奇的数学[GeoGebra](https://www.geogebra.org/u/%E4%B8%80%E9%A1%BF%E4%B8%8D%E5%90%83%E9%A5%BF%E5%BE%97%E6%85%8C)
+
+发布有趣的东西[Bili](https://space.bilibili.com/1850079922)
+
+之前鼓捣的玩意[科技展台]()
+
+我的企鹅
+```text
+QQ 113530014
+交流群 663251235
+```
 
 <!--
 **Duo-Star/Duo-Star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

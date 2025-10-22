@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duo-Star&theme=rogue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duo-Star&theme=rogue&days=60" />
 
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Duo-Star&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Duo-Star's Top Langs" height="158" />
@@ -47,6 +47,7 @@
 
 ### 🎯 目标
 - 睡觉
+- 翻身继续睡
 
 ---
 

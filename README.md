@@ -14,7 +14,7 @@
 
 ### ⚡ 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java,c,cpp,dart,flutter,androidstudio,linux" />
+  <img src="https://skillicons.dev/icons?i=lua,java,rust,dart,flutter,androidstudio,linux" />
 </p>
 
 ---

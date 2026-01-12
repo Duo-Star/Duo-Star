@@ -12,14 +12,14 @@
 
 ---
 
-### ⚡ 喜欢的
+### 💗 喜欢的
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,dart,flutter,rust,androidstudio" />
 </p>
 
 ### ⚡ 待学习的
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,zig,kotlin,java,python" />
+  <img src="https://skillicons.dev/icons?i=go,zig,kotlin,java,python,typescript,cpp" />
 </p>
 
 ---

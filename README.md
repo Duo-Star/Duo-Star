@@ -4,9 +4,9 @@
 ---
 
 ### 🚵‍♂️ 第一眼
-- 🌴 主要开发[MathForest](https://github.com/Duo-Star/MathForest-planting)
+- 🌴 数学库 MathForest [mf-dart](https://github.com/Duo-Star/MathForest-planting) [mf-lua](https://github.com/Duo-Star/MathForest-lua)
 - 🐒 神圣几何[GeoMKY](https://github.com/Duo-Star/geomky)
-- 👾 学习嵌入式（[1st.stm32](https://github.com/Duo-Star/myFirstStm32)）
+- 👾 Rust 启动 [Lambda_solver](https://github.com/Duo-Star/Lambda_solver)
 - 🎮 我的世界服务器腐竹（[DuoplySCQ](https://github.com/Duo-Star/DuoplySCQ)）
 - 🥰 Color打造
 

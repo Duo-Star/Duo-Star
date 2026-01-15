@@ -31,12 +31,6 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Duo-Star&layout=compact&langs_count=10&role=OWNER,COLLABORATOR" alt="Duo-Star's Top Langs" height="150" />
 </p>
 
-<div style="display: flex; gap: 10px;">
-  <div>块级元素 A</div>
-  <div>块级元素 B</div>
-  <div>块级元素 C</div>
-</div>
-
 ---
 
 ### 🐸 爱好

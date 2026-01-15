@@ -25,22 +25,17 @@
 ---
 
 ### 📊 统计
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duo-Star&show_icons=true&theme=radical" height="160"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duo-Star&theme=radical" height="160"/>
-</p>
--->
-
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duo-Star&theme=rogue&days=60" />
-
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Duo-Star&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Duo-Star's Top Langs" height="158" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duo-Star&days=30" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Duo-Star&layout=compact&langs_count=10&role=OWNER,COLLABORATOR" alt="Duo-Star's Top Langs" height="150" />
 </p>
+
+<div style="display: flex; gap: 10px;">
+  <div>块级元素 A</div>
+  <div>块级元素 B</div>
+  <div>块级元素 C</div>
+</div>
 
 ---
 

@@ -51,7 +51,7 @@
 
 发布有趣的东西[Bili](https://space.bilibili.com/1850079922)
 
-之前鼓捣的玩意[科技展台](https://h5.clewm.net/?url=http%3A%2F%2Fqr61.cn%2FoA1YZf%2Fq8PaIAH&lid=jqd94fx75get4doo1&rlid=jqd94fx75get4doo1)
+个人网站主页[Duo 云站](https://www.mduo.cloud/)
 
 我的企鹅
 ```text

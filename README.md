@@ -17,11 +17,6 @@
   <img src="https://skillicons.dev/icons?i=lua,dart,flutter,rust,androidstudio" />
 </p>
 
-### ⚡ 待学习的
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,zig,kotlin,java,python,typescript,cpp" />
-</p>
-
 ---
 
 ### 📊 统计
